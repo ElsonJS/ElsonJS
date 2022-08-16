@@ -1,4 +1,4 @@
-### Olá! Eu sou o Elson Souza, Estudante de programação! 👋 😁<br><br>
+## Olá! Eu sou o Elson Souza, Estudante de programação! 👋 😁<br>
 
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elson-souza-01a58a20a/)<br>
@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsonJS&theme=blue-green" />
 </div>  
 
-## Tecnologias que eu estudo
+## Tecnologias que estou estudando:
 
 <div>
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
