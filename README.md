@@ -19,6 +19,4 @@
 
 <div>
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
-  ![Animação de cobra](https://github.com/ElsonJS/ElsonJS/blob/output/github-contribution-grid-snake.svg)
 </div>
