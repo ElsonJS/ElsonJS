@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Elson Souza, Estudante de programação! 👋 😁<br><br>
 
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elson-souza-01a58a20a/)<br><br>
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elson-souza-01a58a20a/)<br>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElsonJS&show_icons=true&theme=blue-green" />
