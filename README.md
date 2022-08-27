@@ -16,7 +16,7 @@
   <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-  <img align="center" width="50" src="https://icons-for-free.com/iconfiles/png/128/development+logo+mysql+icon-1320184807686758112.png">
+  <img align="center" width="55" src="https://icons-for-free.com/iconfiles/png/128/mysql+original+wordmark-1324760553527083815.png">
 </div><br>
 
 <div>
