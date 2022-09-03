@@ -5,7 +5,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElsonJS&show_icons=true&theme=blue-green" />
-  <img width="500px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsonJS&theme=blue-green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsonJS&theme=blue-green" />
 </div>  
 
 ## Tecnologias que estou estudando:
