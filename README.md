@@ -7,7 +7,7 @@
   <img padding= "120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsonJS&theme=blue-green" />
 </div>  
 
-## Tecnologias que estou estudando:
+## Desenvolvedor Web:
 
 <div>
   <img align="center" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
