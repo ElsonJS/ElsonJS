@@ -4,7 +4,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elson-souza-01a58a20a/)<br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000" /><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElsonJS&show_icons=true&bg_color=00000000" /><br>
   <img padding= "90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElsonJS&theme=blue-green" />
 </div>  
 
