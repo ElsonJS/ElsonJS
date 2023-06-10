@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Elson Souza, Desenvolvedor Web! 👋 😁<br>
 
 Atualmente, trabalho como Assistente de Inteligência de Dados, onde sou responsável por ler bancos de dados usando OracleSQL, automatizar fluxos de dados, construir painéis e bases para análises estratégicas e transformar informações extraídas por meio de programas ETL (Pentaho e Alteryx).<br>
-Para mais informações segue abaixo meu linkedin.
+Abaixo segue meu linkedin:
 
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elson-souza-01a58a20a/)<br>
