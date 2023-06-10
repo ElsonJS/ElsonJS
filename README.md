@@ -11,7 +11,7 @@
 ## Tecnologias que estou estudando:
 
 <div>
-  <img align="center" width="40" src="[https://img.icons8.com/officel/100/php-logo.png](https://cdn-icons-png.flaticon.com/512/5968/5968332.png)"> 
+  <img align="center" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
   <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
