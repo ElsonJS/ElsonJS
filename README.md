@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Elson Souza, Desenvolvedor Web! 👋 😁<br>
 
-Sou um Analista de Suporte de TI com mais de um ano de experiência em Business Intelligence e Data Analytics. Atualmente, trabalho na Super Lagoa - MWN COMERCIAL DE ALIMENTOS LTDA, uma das maiores redes de supermercados do Ceará, onde desenvolvo e gerencio soluções de BI que apoiam a estratégia e a operação da empresa.
-
-Utilizo ferramentas como Power BI, Looker Studio, Python, Pentaho e Alteryx para criar dashboards dinâmicos e automatizar processos ETL, garantindo a qualidade, a segurança e a atualização dos dados. Domino a linguagem Oracle SQL para extrair e manipular dados de diferentes fontes e bancos de dados. Meu objetivo é transformar dados brutos em insights acionáveis, fornecendo informações relevantes e confiáveis para as equipes de gestão. Além disso, colaboro com diversas áreas da empresa, facilitando a comunicação e a integração entre os departamentos. Estou sempre buscando aprender novas ferramentas e técnicas para aprimorar minhas habilidades e competências em BI e Data Analytics.<br><br>
+Sou um profissional de Análise de dados, tenho experiência no desenvolvimento e gerenciamento de soluções de BI. Minha expertise abrange a coleta, limpeza e análise de dados para orientar estratégias empresariais embasadas em insights acionáveis. Possuo habilidades sólidas em ferramentas como Oracle SQL, SQL Server, MySQL, Power BI e Looker Studio, além de experiência na construção de processos de ETL com Python, Pentaho e Alteryx.<br><br>
 
 Abaixo segue meu linkedin:
 
