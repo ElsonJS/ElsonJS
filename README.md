@@ -1,4 +1,4 @@
-## Olá! Eu sou o Elson Souza, Desenvolvedor Web! 👋 😁<br>
+## Olá! Eu sou o Elson Souza, Developer! 👋 😁<br>
 
 Como profissional de Análise de Dados, trago consigo uma sólida bagagem no desenvolvimento e gestão de soluções de Business Intelligence (BI). Minha atuação se concentra na coleta, depuração e análise de dados, conduzindo a formulação de estratégias empresariais embasadas em insights acionáveis. Minha expertise inclui o domínio de ferramentas como Oracle SQL, SQL Server, MySQL, Power BI e Looker Studio, bem como experiência na criação de fluxos de ETL utilizando Python, Pentaho e Alteryx.
 
